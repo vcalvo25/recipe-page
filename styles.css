@@ -13,7 +13,7 @@ body {
 }
 
 .container {
-    margin: 4rem auto;
+    margin: 10rem auto;
     width: 735px;
     background-color: hsl(0, 0%, 100%);
     border-radius: 20px;
@@ -114,6 +114,7 @@ li::marker {
 .macro {
     width: 340px;
     padding-left: 2rem;   
+    padding-bottom: 0px;
 }
 
 .attribution {
